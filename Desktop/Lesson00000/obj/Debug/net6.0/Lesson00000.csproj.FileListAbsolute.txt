@@ -1,0 +1,15 @@
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.csproj.AssemblyReference.cache
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.AssemblyInfoInputs.cache
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.AssemblyInfo.cs
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.csproj.CoreCompileInputs.cache
+C:\Users\Аполинария\Desktop\Lesson00000\bin\Debug\net6.0\Lesson00000.exe
+C:\Users\Аполинария\Desktop\Lesson00000\bin\Debug\net6.0\Lesson00000.deps.json
+C:\Users\Аполинария\Desktop\Lesson00000\bin\Debug\net6.0\Lesson00000.runtimeconfig.json
+C:\Users\Аполинария\Desktop\Lesson00000\bin\Debug\net6.0\Lesson00000.dll
+C:\Users\Аполинария\Desktop\Lesson00000\bin\Debug\net6.0\Lesson00000.pdb
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.dll
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\refint\Lesson00000.dll
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.pdb
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\Lesson00000.genruntimeconfig.cache
+C:\Users\Аполинария\Desktop\Lesson00000\obj\Debug\net6.0\ref\Lesson00000.dll
